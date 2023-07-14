@@ -1,5 +1,2 @@
-# cpp-project
- Car management system by using c ++
-<h2>
-Car sales managment system by using c++ 
-</h2>
+# CAR MANAGMENT SYSTEM BY USING C++
+>here is my first project in c++
